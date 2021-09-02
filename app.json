@@ -1,6 +1,6 @@
 {
-	"name": "V2Ray",
-	"description": "Deploy V2ray on Heroku.",
+	"name": "V2ness",
+	"description": "Deploy V2ness on Heroku.",
 	"keywords": ["V2Ray"],
 	"env": {
 		"UUID": {
